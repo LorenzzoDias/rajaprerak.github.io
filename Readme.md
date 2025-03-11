@@ -14,11 +14,11 @@
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="website_images/image" width="900">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img src="website_images/image1" width="900">
   
 
 
